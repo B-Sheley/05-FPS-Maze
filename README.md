@@ -2,7 +2,7 @@
 # Project Name
 First Person Red Light Green Light Maze Game 
 
-In this game you will navigate a maze in first person. Collect 3 keys hidden throughout the maze to unlock the exit. Stationed throughout the maze are robot sentries who shine red or green lights. When the light is red you can freely pass the front of the robot, but if the light shines red beware. For you will take damage. If your lives reach 0, you lose. 
+In this game you will navigate a maze in first person. Collect 3 keys hidden throughout the maze to unlock the exit. Stationed throughout the maze are robot sentries who shine red or green lights. When the light is green you can freely pass the front of the robot, but if the light shines red beware. For you will take damage. If your lives reach 0, you lose. 
 
 ## Implementation
 Multiple Objects to pick up. (The three keys.)
